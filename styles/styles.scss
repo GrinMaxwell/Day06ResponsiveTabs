@@ -115,9 +115,11 @@ header{
 }
   main{
     section{
+      clear: both;
       img{
         display: inline-block;
-        max-width: 30%;
+
+        max-width: 40%;
         float: left;
       }
       h4{

@@ -19,7 +19,7 @@
   4. build basic html framework and the very basic SCSS styling
    - figuring out icon stacking takes a second
    - then getting the outer icon circles takes awhile
-   - finally just gave up and made the whole icons bigger
+   - finally just gave up
    - spent some time making the buttons all clickable so that they'd look like tabs selected
     - had to ask the instructor how to make it so the left and right borders didn't poke down (had to decrease bottom padding to match the increased top border on focus)
   5. finish styling for default (mobile) view
