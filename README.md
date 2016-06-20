@@ -12,10 +12,15 @@
 ##### Build Order
   1. Figure out where to get primary elements (icons, etc.)
    - apparently it's ok to use FontAwesome equivalents
-   - TA Dana sent us images
+   - clipped images from original
   2. make sure we set up the proper filing names and systems
   3. make sure that the SCSS is hooked up to actually hooked up to the html and being watched, etc.
    - took some troubleshooting with the command line watch function, etc.
   4. build basic html framework and the very basic SCSS styling
    - figuring out icon stacking takes a second
-  5.
+   - then getting the outer icon circles takes awhile
+   - finally just gave up and made the whole icons bigger
+   - spent some time making the buttons all clickable so that they'd look like tabs selected
+    - had to ask the instructor how to make it so the left and right borders didn't poke down (had to decrease bottom padding to match the increased top border on focus)
+  5. finish styling for default (mobile) view
+  6.
