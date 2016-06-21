@@ -1,0 +1,22 @@
+img{
+  margin: 0 auto;
+  padding: 20vh 0 5vh 0;
+  display: block;
+  max-width: 80%;
+}
+@media screen and (min-width: 510px){
+  img {
+      display: inline-block;
+      max-width: 40%;
+      float: left;
+      padding: 5vh 3%;
+  }
+}
+
+@media screen and (min-width: 840px){
+  img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+  }
+}
